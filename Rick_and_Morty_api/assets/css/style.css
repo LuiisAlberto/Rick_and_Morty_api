@@ -1,0 +1,11 @@
+.bg{
+    background-color: #303337;
+}
+
+.rick{
+    width: 270px;
+}
+
+.nav-link:hover{
+    color: #BEDD41 !important;
+}
